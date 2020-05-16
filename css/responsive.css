@@ -4698,7 +4698,7 @@ h5.bdrBtm:after, .h5.bdrBtm:after {
   #back-top.active {
     opacity: 1;
     visibility: visible; }
-
+/*
 .loader-holder {
   top: 0;
   left: 0;
@@ -4715,7 +4715,7 @@ h5.bdrBtm:after, .h5.bdrBtm:after {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%); }
   .loader-holder img {
-    width: 80px; }
+    width: 80px; }*/
 
 /* ---------------------------------------------------------
 1	 Logo/.logo
